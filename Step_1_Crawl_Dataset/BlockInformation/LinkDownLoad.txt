@@ -1,0 +1,9 @@
+https://api.blockchain.info/charts/miners-revenue?timespan=3years&format=csv
+https://api.blockchain.info/charts/difficulty?timespan=3years&format=csv
+https://api.blockchain.info/charts/hash-rate?timespan=3years&format=csv
+https://api.blockchain.info/charts/median-confirmation-time?timespan=3years&format=csv
+https://api.blockchain.info/charts/avg-block-size?timespan=3years&format=csv
+https://api.blockchain.info/charts/n-unique-addresses?timespan=3years&format=csv
+https://api.blockchain.info/charts/n-transactions-per-block?timespan=3years&format=csv
+https://api.blockchain.info/charts/n-transactions?timespan=3years&format=csv
+https://api.blockchain.info/charts/cost-per-transaction-percent?timespan=3years&format=csv
